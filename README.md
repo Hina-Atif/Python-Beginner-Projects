@@ -110,4 +110,13 @@ Would you like help with:
 
 Just say the word — let’s keep this momentum going!
 
+---
+
+## 🖼️ Screenshot (Terminal Output)
+
+Here’s the result after running the Python calculator script:
+
+![Terminal Output](py.jpg)
+
+
 

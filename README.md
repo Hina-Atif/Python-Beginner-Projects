@@ -118,6 +118,9 @@ Here’s the result after running the Python calculator script:
 
 ![Terminal Output](https://github.com/Hina-Atif/Python-Beginner-Projects/blob/main/py.jpg?raw=true)
 
+![image](https://github.com/user-attachments/assets/3fab1210-d669-4b38-be68-887cb3c4303d)
+
+
 
 
 

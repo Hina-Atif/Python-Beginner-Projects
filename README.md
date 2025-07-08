@@ -116,7 +116,8 @@ Just say the word — let’s keep this momentum going!
 
 Here’s the result after running the Python calculator script:
 
-![Terminal Output](py.jpg)
+![Terminal Output](https://github.com/Hina-Atif/Python-Beginner-Projects/blob/main/py.jpg?raw=true)
+
 
 
 
